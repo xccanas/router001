@@ -239,6 +239,8 @@ adse.ximalaya.com
 adsebs.ximalaya.com
 adsense.google.cn
 adserver.unityads.unity3d.com
+unityads.unity3d.com
+ads.unity.com
 adservice.google.cn
 adservice.google.com
 adservice.sigmob.cn
@@ -373,6 +375,7 @@ bes-mtj.baidu.com
 bgg.baidu.com
 bianxian.com
 bingads.microsoft.com
+ads.microsoft.com
 bj.ad.track.66mobi.com
 books-analytics-events.apple.com
 browsercfg-drcn.cloud.dbankcloud.cn
@@ -756,6 +759,7 @@ rt.applovin.com
 rt.applvn.com
 rtb.voiceads.cn
 s.amazon-adsystem.com
+amazon-adsystem.com
 s8t.teads.tv
 saad.ms.zhangyue.net
 saas.hpplay.cn
