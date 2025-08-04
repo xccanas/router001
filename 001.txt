@@ -1,5 +1,6 @@
 trk.pinterest.com
 ads.google.com
+bing.com
 criteo.com
 stats.g.doubleclick.net
 mediavisor.doubleclick.net
