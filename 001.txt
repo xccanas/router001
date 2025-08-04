@@ -6,6 +6,7 @@ msft-ssp-emea.adnxs.com
 a.ads1.msn.com
 msn.com
 mouseflow.com
+pubads.g.doubleclick.net
 c.bing.com
 nexus.ensighten.com
 a.ads2.msn.com
@@ -130,6 +131,7 @@ pixel.facebook.com
 snapads.com
 ads.snapchat.com
 adsapi.snapchat.com
+youtubeads.googleusercontent.com
 crashlogs.whatsapp.net
 sc-analytics.appspot.com
 ad.snaptube.app
