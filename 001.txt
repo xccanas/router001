@@ -5,6 +5,7 @@ bing.com
 msft-ssp-emea.adnxs.com
 a.ads1.msn.com
 msn.com
+mouseflow.com
 c.bing.com
 nexus.ensighten.com
 a.ads2.msn.com
@@ -55,11 +56,6 @@ luckyorange.com
 fwtracks.freshmarketer.com
 claritybt.freshmarketer.com
 freshmarketer.com
-cdn-test.mouseflow.com
-tools.mouseflow.com
-o2.mouseflow.com
-cdn.mouseflow.com
-mouseflow.com
 careers.hotjar.com
 surveys.hotjar.com
 script.hotjar.com
@@ -200,8 +196,8 @@ adm.funshion.com
 ads-api-o.api.leiniao.com
 ads-api.tiktok.com
 ads-api.twitter.com
-ads-img-al.xhscdn.com
-ads-img-qc.xhscdn.com
+ads-img-al.xhs.com
+ads-img-qc.xhs.com
 ads-jp.tiktok.com
 ads-marketing-vivofs.vivo.com.cn
 ads-sdk-api.ranfenghd.com
