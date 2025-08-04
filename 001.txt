@@ -4,6 +4,7 @@ ads.google.com
 bing.com
 msft-ssp-emea.adnxs.com
 a.ads1.msn.com
+msn.com
 c.bing.com
 nexus.ensighten.com
 a.ads2.msn.com
