@@ -1,6 +1,8 @@
 trk.pinterest.com
 bat.bing.com
 ads.google.com
+bing.com
+msft-ssp-emea.adnxs.com
 a.ads1.msn.com
 c.bing.com
 nexus.ensighten.com
