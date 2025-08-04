@@ -1,7 +1,14 @@
 trk.pinterest.com
+bat.bing.com
 ads.google.com
-bing.com
+a.ads1.msn.com
+c.bing.com
+nexus.ensighten.com
+a.ads2.msn.com
+flex.msn.com
 criteo.com
+ads.msn.com
+adnexus.net
 stats.g.doubleclick.net
 mediavisor.doubleclick.net
 static.doubleclick.net
