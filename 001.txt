@@ -197,7 +197,6 @@ adlink-api.huan.tv
 adm.funshion.com
 ads-api-o.api.leiniao.com
 ads-api.tiktok.com
-ads-api.twitter.com
 ads-img-al.xhs.com
 ads-img-qc.xhs.com
 ads-jp.tiktok.com
