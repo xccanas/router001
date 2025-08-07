@@ -2,6 +2,7 @@ trk.pinterest.com
 bat.bing.com
 ads.google.com
 ads-api.twitter.com
+static.ads-twitter.com
 bing.com
 msft-ssp-emea.adnxs.com
 a.ads1.msn.com
@@ -31,7 +32,6 @@ appmetrica.yandex.com
 ads.reddit.com
 d.reddit.com
 media.net
-advertising.twitter.com
 analytics.facebook.com
 static.hotjar.com
 ads-dev.pinterest.com
