@@ -1,5 +1,7 @@
 img.kwcdn.com
-us-east1-aws.api.snapchat.com.lan
+sc-gw.com
+cf-st.sc-cdn.net
+sc-cdn.net
 aimg.kwcdn.com
 static.kwcdn.com
 challenges.cloudflare.com
@@ -12,7 +14,6 @@ static.ads-twitter.com
 grok.x.com
 cf.x.com
 analytics.x.com
-spotlight.sc-cdn.net
 usc.adserver.snapads.com
 adserver.shadow.snapads.com
 study.snapads.com
