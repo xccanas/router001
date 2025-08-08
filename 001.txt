@@ -1,6 +1,9 @@
 img.kwcdn.com
+us-east1-aws.api.snapchat.com.lan
 aimg.kwcdn.com
 static.kwcdn.com
+challenges.cloudflare.com
+atom-store.co
 analytics.snapchat.com
 trk.pinterest.com
 bat.bing.com
