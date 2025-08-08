@@ -1,4 +1,6 @@
-tr.snapchat.com
+img.kwcdn.com
+aimg.kwcdn.com
+static.kwcdn.com
 analytics.snapchat.com
 trk.pinterest.com
 bat.bing.com
