@@ -1,6 +1,15 @@
 img.kwcdn.com
+aws.duplex.snapchat.com
 app-analytics.snapchat.com
+app-analytics-v2.snapchat.com
 tr.snapchat.com
+snapads.com
+ads.snapchat.com
+adsapi.snapchat.com
+adserver.snapads.com
+usc.adserver.snapads.com
+adserver.shadow.snapads.com
+study.snapads.com
 aimg.kwcdn.com
 static.kwcdn.com
 atom-store.co
@@ -12,9 +21,6 @@ static.ads-twitter.com
 grok.x.com
 cf.x.com
 analytics.x.com
-usc.adserver.snapads.com
-adserver.shadow.snapads.com
-study.snapads.com
 crashlytics.com
 ias.x.com
 marketing.x.com
@@ -169,9 +175,6 @@ federatedml-pa.googleapis.com
 clients1.google.com
 analytics-sg.tiktok.com
 pixel.facebook.com
-snapads.com
-ads.snapchat.com
-adsapi.snapchat.com
 youtubeads.googleusercontent.com
 crashlogs.whatsapp.net
 sc-analytics.appspot.com
