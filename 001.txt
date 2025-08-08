@@ -1,6 +1,5 @@
 img.kwcdn.com
 sc-gw.com
-cf-st.sc-cdn.net
 sc-cdn.net
 aimg.kwcdn.com
 static.kwcdn.com
