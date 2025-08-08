@@ -1,5 +1,4 @@
 img.kwcdn.com
-ads.cf-st.sc-cdn.net
 sponsored.cf-st.sc-cdn.net
 aimg.kwcdn.com
 static.kwcdn.com
