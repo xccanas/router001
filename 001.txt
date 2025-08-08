@@ -1,5 +1,5 @@
 img.kwcdn.com
-us-east1-tr.snapchat.com
+app-analytics.snapchat.com
 aimg.kwcdn.com
 static.kwcdn.com
 atom-store.co
