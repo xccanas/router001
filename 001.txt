@@ -1,5 +1,10 @@
 img.kwcdn.com
-gcs.sc-cdn.net
+ads.cf-st.sc-cdn.net
+analytics.cf-st.sc-cdn.net
+tracking.cf-st.sc-cdn.net
+metrics.cf-st.sc-cdn.net
+log.cf-st.sc-cdn.net
+sponsored.cf-st.sc-cdn.net
 aimg.kwcdn.com
 static.kwcdn.com
 challenges.cloudflare.com
