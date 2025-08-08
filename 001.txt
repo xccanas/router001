@@ -1,5 +1,5 @@
 img.kwcdn.com
-sc-gw.com
+sc-cdn.net
 aimg.kwcdn.com
 static.kwcdn.com
 challenges.cloudflare.com
