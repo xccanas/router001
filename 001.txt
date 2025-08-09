@@ -1,5 +1,6 @@
 img.kwcdn.com
 snappcm-dev.com
+web-gcp.api.snapchat.com
 snappcm.com
 aws.duplex.snapchat.com
 app-analytics.snapchat.com
