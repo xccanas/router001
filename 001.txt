@@ -1,7 +1,6 @@
 img.kwcdn.com
 snappcm-dev.com
 adsapi.facebook.com
-telegraph-ash.instagram.com
 134.43.190.35.bc.googleusercontent.com
 web-gcp.api.snapchat.com
 snappcm.com
@@ -172,7 +171,6 @@ appspot-preview.l.google.com
 m.quantcount.com
 app.adjust.com
 utraffic.engine.adglare.net
-graph.instagram.com
 ssl.google-analytics.com
 adservice.google.de
 ade.googlesyndication.com
