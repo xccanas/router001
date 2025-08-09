@@ -1,5 +1,7 @@
 img.kwcdn.com
 snappcm-dev.com
+adsapi.facebook.com
+telegraph-ash.instagram.com
 134.43.190.35.bc.googleusercontent.com
 web-gcp.api.snapchat.com
 snappcm.com
