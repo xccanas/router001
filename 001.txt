@@ -1,6 +1,5 @@
 img.kwcdn.com
 snappcm-dev.com
-adsapi.facebook.com
 134.43.190.35.bc.googleusercontent.com
 web-gcp.api.snapchat.com
 snappcm.com
@@ -55,7 +54,6 @@ extmaps-api.yandex.net
 m.doubleclick.net
 ads.yahoo.com
 analytics.yahoo.com
-ads.facebook.com
 yandexadexchange.net
 adsdk.yandex.ru
 analytics.mobile.yandex.net
@@ -128,7 +126,6 @@ rubiconproject.com
 criteo.net
 outbrain.com
 imasdk.googleapis.com
-mqtt-mini.facebook.com
 events.appsflyer.com
 stats.appsflyer.com
 t.appsflyer.com
