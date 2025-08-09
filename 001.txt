@@ -1,8 +1,9 @@
-white.ish.instagram.com
-adsapi.facebook.com
-graph.instagram.com
+an.facebook.com
 graph.facebook.com
-telegraph-ash.instagram.com
+ads.facebook.com
+ads.instagram.com
+connect.facebook.net
+creative.ak.fbcdn.net
 img.kwcdn.com
 snappcm-dev.com
 134.43.190.35.bc.googleusercontent.com
