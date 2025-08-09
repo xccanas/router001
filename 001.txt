@@ -63,7 +63,6 @@ appmetrica.yandex.com
 ads.reddit.com
 d.reddit.com
 media.net
-analytics.facebook.com
 static.hotjar.com
 ads-dev.pinterest.com
 affiliationjs.s3.amazonaws.com
@@ -129,7 +128,6 @@ rubiconproject.com
 criteo.net
 outbrain.com
 imasdk.googleapis.com
-a-graph.facebook.com
 mqtt-mini.facebook.com
 events.appsflyer.com
 stats.appsflyer.com
@@ -178,7 +176,6 @@ id.google.de
 federatedml-pa.googleapis.com
 clients1.google.com
 analytics-sg.tiktok.com
-pixel.facebook.com
 youtubeads.googleusercontent.com
 crashlogs.whatsapp.net
 sc-analytics.appspot.com
@@ -347,7 +344,6 @@ alog.umeng.com
 alogus.umeng.com
 als.baidu.com
 amdcopen.m.taobao.com
-an.facebook.com
 analysis.chatglm.cn
 analysis.yozocloud.cn
 analytics-api.samsunghealthcn.com
