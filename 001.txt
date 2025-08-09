@@ -1,4 +1,7 @@
 white.ish.instagram.com
+adsapi.facebook.com
+graph.instagram.com
+graph.facebook.com
 telegraph-ash.instagram.com
 img.kwcdn.com
 snappcm-dev.com
