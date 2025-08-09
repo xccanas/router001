@@ -1,5 +1,6 @@
 img.kwcdn.com
 snappcm-dev.com
+134.43.190.35.bc.googleusercontent.com
 web-gcp.api.snapchat.com
 snappcm.com
 aws.duplex.snapchat.com
