@@ -1,4 +1,5 @@
 an.facebook.com
+graph.instagram.com
 doubleclick.net
 quantserve.com
 scorecardresearch.com
