@@ -4,6 +4,10 @@ b-api.facebook.com
 b-graph.facebook.com
 events.instagram.com
 i.instagram.com
+lm.facebook.com
+ads.facebook.com
+ads.instagram.com
+connect.facebook.net
 doubleclick.net
 quantserve.com
 scorecardresearch.com
@@ -21,9 +25,6 @@ settings-win.data.microsoft.com
 vortex.data.microsoft.com
 branch.io
 telemetry.microsoft.com
-ads.facebook.com
-ads.instagram.com
-connect.facebook.net
 creative.ak.fbcdn.net
 img.kwcdn.com
 snappcm-dev.com
@@ -161,7 +162,6 @@ live.direct.ly
 device.zhiliaoapp.com
 uop.umeng.com
 alog.umengcloud.com
-api.
 cp.pushwoosh.com
 ws.tapjoyads.com
 connect.tapjoy.com
@@ -579,9 +579,6 @@ edge.ads.twitch.tv
 lnkd.in
 goo.gl
 bit.ly
-lm.facebook.com
-l.instagram.com
-
 smarturl.it
 outlook.office365.com
 ef-dongfeng.tanx.com
