@@ -4,6 +4,9 @@ b-api.facebook.com
 b-graph.facebook.com
 events.instagram.com
 i.instagram.com
+edge-mqtt.facebook.com
+logging.instagram.com
+creative.ak.fbcdn.net
 lm.facebook.com
 ads.facebook.com
 ads.instagram.com
@@ -25,7 +28,6 @@ settings-win.data.microsoft.com
 vortex.data.microsoft.com
 branch.io
 telemetry.microsoft.com
-creative.ak.fbcdn.net
 img.kwcdn.com
 snappcm-dev.com
 134.43.190.35.bc.googleusercontent.com
