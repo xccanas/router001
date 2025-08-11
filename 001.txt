@@ -7,6 +7,7 @@ i.instagram.com
 edge-mqtt.facebook.com
 logging.instagram.com
 activity.facebook.com
+pixel.facebook.com
 reels-logging.instagram.com
 metrics.instagram.com
 creative.ak.fbcdn.net
