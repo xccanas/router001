@@ -1,5 +1,9 @@
 an.facebook.com
 graph.instagram.com
+b-api.facebook.com
+b-graph.facebook.com
+events.instagram.com
+i.instagram.com
 doubleclick.net
 quantserve.com
 scorecardresearch.com
