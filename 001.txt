@@ -5,7 +5,6 @@ usc1-gcp-v61.api.snapchat.com
 usc1-gcp-v62.api.snapchat.com
 aws.api.snapchat.com
 us-east1-aws.api.snapchat.com
-sc-gw.snapchat.com
 sc-telemetry.snapchat.com
 snappcm.com
 snappcm-dev.com
