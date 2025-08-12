@@ -48,8 +48,6 @@ mixpanel.com
 segment.io
 adform.net
 t.co
-clients6.google.com
-clients4.google.com
 onesignal.com
 settings-win.data.microsoft.com
 vortex.data.microsoft.com
@@ -211,8 +209,6 @@ ssl.google-analytics.com
 adservice.google.de
 ade.googlesyndication.com
 id.google.de
-federatedml-pa.googleapis.com
-clients1.google.com
 analytics-sg.tiktok.com
 youtubeads.googleusercontent.com
 crashlogs.whatsapp.net
