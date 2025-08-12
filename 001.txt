@@ -1,3 +1,10 @@
+gcp.api.snapchat.com
+us-east4-gcp.api.snapchat.com
+us-central1-gcp.api.snapchat.com
+usc1-gcp-v61.api.snapchat.com
+usc1-gcp-v62.api.snapchat.com
+aws.api.snapchat.com
+us-east1-aws.api.snapchat.com
 an.facebook.com
 graph.instagram.com
 b-api.facebook.com
