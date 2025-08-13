@@ -12,15 +12,14 @@ sc-telemetry.snapchat.com
 analytics.snapchat.com
 sc-analytics.appspot.com
 snappcm.com
+adsapi.snapchat.com
 snappcm-dev.com
-134.43.190.35.bc.googleusercontent.com
 web-gcp.api.snapchat.com
 app-analytics.snapchat.com
 app-analytics-v2.snapchat.com
 snapads.com
 ads.snapchat.com
 adserver.snapads.com
-usc.adserver.snapads.com
 adserver.shadow.snapads.com
 study.snapads.com
 an.facebook.com
@@ -51,8 +50,6 @@ segment.io
 adform.net
 t.co
 onesignal.com
-settings-win.data.microsoft.com
-vortex.data.microsoft.com
 branch.io
 telemetry.microsoft.com
 img.kwcdn.com
@@ -1073,7 +1070,6 @@ w.l.qq.com
 w1.askwai.com
 w1.gskwai.com
 w1.kskwai.com
-watson.microsoft.com
 watson.telemetry.microsoft.com
 wcp.taobao.com
 weather-analytics-events.apple.com
