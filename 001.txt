@@ -5,6 +5,7 @@ usc1-gcp-v61.api.snapchat.com
 usc1-gcp-v62.api.snapchat.com
 aws.api.snapchat.com
 tr.snapchat.com
+usc.adserver.snapads.com
 aws.dublex.snapchat.com
 us-east1-aws.api.snapchat.com
 sc-gw.snapchat.com
@@ -17,10 +18,6 @@ snappcm-dev.com
 web-gcp.api.snapchat.com
 app-analytics.snapchat.com
 app-analytics-v2.snapchat.com
-snapads.com
-ads.snapchat.com
-adserver.snapads.com
-adserver.shadow.snapads.com
 study.snapads.com
 an.facebook.com
 graph.instagram.com
