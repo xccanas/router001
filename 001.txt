@@ -13,10 +13,8 @@ snappcm.com
 snappcm-dev.com
 134.43.190.35.bc.googleusercontent.com
 web-gcp.api.snapchat.com
-aws.duplex.snapchat.com
 app-analytics.snapchat.com
 app-analytics-v2.snapchat.com
-tr.snapchat.com
 snapads.com
 ads.snapchat.com
 adsapi.snapchat.com
