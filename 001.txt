@@ -1,10 +1,10 @@
-tr.snapchat.com
-usc.adserver.snapads.com
-snapads.com
-ads.snapchat.com
-adserver.snapads.com
-adserver.shadow.snapads.com
-adsapi.snapchat.com
+snappcm.com
+gcp.api.snapchat.com
+aws.api.snapchat.com
+web-gcp.api.snapchat.com
+snappcm-dev.com
+sc-gw.snapchat.com
+aws.dublex.snapchat.com
 an.facebook.com
 graph.instagram.com
 usc1-gcp-v61.api.snapchat.com
