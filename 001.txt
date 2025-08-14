@@ -7,7 +7,6 @@ adserver.shadow.snapads.com
 adsapi.snapchat.com
 snappcm.com
 gcp.api.snapchat.com
-aws.api.snapchat.com
 web-gcp.api.snapchat.com
 snappcm-dev.com
 sc-gw.snapchat.com
