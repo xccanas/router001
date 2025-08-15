@@ -47,7 +47,6 @@ graph.facebook.com
 taboola.com
 mixpanel.com
 segment.io
-adform.net
 t.co
 onesignal.com
 branch.io
@@ -56,7 +55,6 @@ img.kwcdn.com
 aimg.kwcdn.com
 static.kwcdn.com
 atom-store.co
-analytics.snapchat.com
 trk.pinterest.com
 bat.bing.com
 ads.google.com
@@ -211,7 +209,6 @@ id.google.de
 analytics-sg.tiktok.com
 youtubeads.googleusercontent.com
 crashlogs.whatsapp.net
-sc-analytics.appspot.com
 ad.snaptube.app
 api.ad.snaptube.app
 apps.ad.snaptube.app
@@ -455,7 +452,6 @@ consentcdn.cookiebot.com
 consentcdn2.cookiebot.com
 cdn.cookielaw.org
 cookielaw.org
-cdn.cookielaw.org
 optanon.blob.core.windows.net
 optanon.com
 cdn.optanon.com
@@ -477,7 +473,6 @@ choice.quantcast.com
 cookieyes.com
 cdn-cookieyes.com
 cookie-cdn.cookieyes.com
-cdn-cookieyes.com
 cookieinformation.com
 consent.cookieinformation.com
 consentcdn.cookieinformation.com
@@ -587,7 +582,6 @@ eclick.baidu.com
 edge.ads.twitch.tv
 lnkd.in
 goo.gl
-bit.ly
 smarturl.it
 outlook.office365.com
 ef-dongfeng.tanx.com
@@ -1132,7 +1126,6 @@ bokepxnx.site
 dooed.pro
 shorturl.asia
 bit.ly
-Lazada.co.th
 service365days.xyz
 linksgogo.com
 web1chill-jav.blogspot.com
@@ -1150,7 +1143,6 @@ mooddays.xyz
 chudaix.site
 viinnqwx.com
 obqj2.com
-hieudo.site
 hieudo.site
 firstosama.com
 nowosama.com
