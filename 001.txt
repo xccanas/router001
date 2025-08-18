@@ -1,5 +1,6 @@
 usc.adserver.snapads.com
 tr.snapchat.com
+aws.dublex.snapchat.com
 sc-telemetry.snapchat.com
 snapads.com
 ads.snapchat.com
