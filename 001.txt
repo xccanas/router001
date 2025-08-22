@@ -346,6 +346,7 @@ adxserver.ad.cmvideo.cn
 aegis.qq.com
 aem.dentsuchina.cn
 afs.googlesyndication.com
+ads.googlesyndication.com
 agn.aty.sohu.com
 aiseet.aa.atianqi.com
 ali-ad.a.yximgs.com
@@ -816,8 +817,6 @@ p3-tt.byteimg.com
 p4-be-pack-sign.pglstatp-toutiao.com
 p5-be-pack-sign.pglstatp-toutiao.com
 p6-be-pack-sign.pglstatp-toutiao.com
-pagead2.googleadservices.com
-pagead2.googlesyndication.com
 pangolin-sdk-toutiao-b.com
 pay.sboot.cn
 pcdn.xmcdn.com
