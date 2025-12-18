@@ -62,7 +62,6 @@ graph.facebook.com
 graph.instagram.com
 ads-api.twitter.com
 ads-api.x.com
-analytics.twitter.com
 pixel.quora.com
 ct.pinterest.com
 mon.byteoversea.com
