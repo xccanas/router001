@@ -1,3 +1,9 @@
+liftoff.io
+cdn.segment.com
+pippio.com
+trafficjunky.net
+2giga.link
+ad.mail.ru
 fingerprintjs.com
 fpjs.io
 api.fpjs.io
@@ -6,7 +12,6 @@ cdn.siftscience.com
 permutive.com
 cdn.permutive.com
 onetag-sys.com
-pippio.com
 id5-sync.com
 thetradedesk.com
 sync.mathtag.com
@@ -22,16 +27,12 @@ appsflyer.com
 bnc.lt
 kochava.com
 control.kochava.com
-wzrkt.com
-clevertap-prod.com
 bam.nr-data.net
-2giga.link
 greatis.com
 statdynamic.com
 popcash.net
 onclickads.net
 clickadu.com
-trafficjunky.net
 exoclick.com
 coinimp.com
 www.coinimp.com
