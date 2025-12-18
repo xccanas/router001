@@ -118,7 +118,7 @@ inmobi.com
 ironSource.mobi
 outcome-ssp.supersonicads.com
 redirector.googlevideo.com
-youtubei.googleapis.com
+s.youtube.com
 adsrvr.org
 smartyads.com
 ad.gt
