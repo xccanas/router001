@@ -209,7 +209,6 @@ metrics.instagram.com
 lm.facebook.com
 ads.facebook.com
 ads.instagram.com
-connect.facebook.net
 doubleclick.net
 quantserve.com
 scorecardresearch.com
