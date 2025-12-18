@@ -1,4 +1,14 @@
 liftoff.io
+analytics.facebook.com
+advertising.twitter.com
+tracking.intl.miui.com
+tracking.india.miui.com
+metrics1.data.hicloud.com
+metrics5.data.hicloud.com 
+metrics-dra.dt.hicloud.com
+business.samsungusa.com
+supportmetrics.apple.com
+rereddit.com
 cdn.segment.com
 pippio.com
 trafficjunky.net
