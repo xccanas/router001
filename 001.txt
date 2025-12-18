@@ -115,7 +115,7 @@ live.chartboost.com
 init.supersonicads.com
 api.fyber.com
 inmobi.com
-ironSource.mobi
+ironsource.mobi
 outcome-ssp.supersonicads.com
 redirector.googlevideo.com
 adsrvr.org
@@ -1268,7 +1268,7 @@ zhihu-web-analytics.zhihu.com
 zxid-m.mobileservice.cn
 attractivereception.com
 uglytraining.com
-Lazada.co.th
+lazada.co.th
 anothereldestprogeny.com
 adclickad.com
 docd.to
