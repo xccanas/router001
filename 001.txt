@@ -181,6 +181,8 @@ metrics.brightcove.com
 s.innovid.com
 tremorhub.com
 ads.tremorhub.com
+aws.duplex.snapchat.com
+aws.dublex.snapchat.com
 usc.adserver.snapads.com
 use.adserver.snapads.com
 euw.adserver.snapads.com
