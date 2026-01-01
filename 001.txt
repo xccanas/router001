@@ -183,6 +183,7 @@ tremorhub.com
 ads.tremorhub.com
 usc.adserver.snapads.com
 tr.snapchat.com
+ads-interfaces.sc-cdn.net
 aws.dublex.snapchat.com
 sc-telemetry.snapchat.com
 snapads.com
