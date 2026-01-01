@@ -189,8 +189,6 @@ tr.snapchat.com
 siteimproveanalytics.com
 6165054.global.siteimproveanalytics.io
 loc.sc-jpl.com
-aws.duplex.snapchat.com
-aws.dublex.snapchat.com
 ads-interfaces.sc-cdn.net
 sc-telemetry.snapchat.com
 snapads.com
