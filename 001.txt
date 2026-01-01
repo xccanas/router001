@@ -1,5 +1,3 @@
-aws.duplex.snapchat.com
-aws.dublex.snapchat.com
 liftoff.io
 api.adtimaserver.vn
 log.adtimaserver.vn
