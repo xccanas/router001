@@ -40,6 +40,11 @@ auction-load.unityads.unity3d.com
 reqhfg-launches.appsflyersdk.com
 app.adjust.com
 b-graph.facebook.com
+graph.instagram.com
+graph-fallback.instagram.com
+telemetry-in.battle.net
+analytics.tiktok.com
+www.googletagmanager.com
 z-m-gateway.facebook.com
 reqhfg-cdn-settings.appsflyersdk.com
 att-launches.appsflyersdk.com
