@@ -211,7 +211,6 @@ api16-event-va.pangle.io
 api16-log-sg2.pangle.io
 ssdk-sg.pangle.io
 event-tracking-project.log-global.aliyuncs.com
-observer.marketing
 smartarget.online
 #OPTIONAL – Feature Flags / Experiments
 clientstream.launchdarkly.com
@@ -224,7 +223,6 @@ spot-pa.googleapis.com
 proactivebackend-pa.googleapis.com
 geller-pa.googleapis.com
 jnn-pa.googleapis.com
-footprints-pa.googleapis.com
 experiments.apple.com
 peoplestack-pa.googleapis.com
 playatoms-pa.googleapis.com
