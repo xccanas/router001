@@ -65,7 +65,6 @@ roovza.launches.appsflyersdk.com
 app-measurement.com
 c6thn4.launches.appsflyersdk.com
 edge-mqtt.facebook.com
-gcp.api.sc-gw.com
 cdp.cloud.unity3d.com
 view.adjust.com
 gw-is.iads.unity3d.com
