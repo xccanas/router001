@@ -99,7 +99,6 @@ roovza.cdn-settings.appsflyersdk.com
 bam.nr-data.net
 d3bayo-skadsdk.appsflyersdk.com
 6o1s4z.skadsdkless.appsflyersdk.com
-aws.duplex.snapchat.com
 oy24bn-launches.appsflyersdk.com
 us-east1-aws.api.snapchat.com
 publisher-config.unityads.unity3d.com
