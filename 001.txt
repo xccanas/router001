@@ -26,7 +26,6 @@ auction-load.unityads.unity3d.com
 reqhfg-launches.appsflyersdk.com
 app.adjust.com
 b-graph.facebook.com
-aws.duplex.sc-gw.com
 z-m-gateway.facebook.com
 us-central1-gcp.api.snapchat.com
 reqhfg-cdn-settings.appsflyersdk.com
