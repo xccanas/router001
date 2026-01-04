@@ -16,7 +16,6 @@ analytics.snapchat.com
 study.snapads.com
 ads-interfaces.sc-cdn.net
 loc.sc-jpl.com
-app-analytics-v2.snapchat.com
 pagead2.googleadservices.com
 thl2rj.inapps.appsflyersdk.com
 d3bayo-launches.appsflyersdk.com
