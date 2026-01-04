@@ -83,7 +83,6 @@ mc.prod.ads.prod.webservices.mozgcp.net
 cm.g.doubleclick.net
 pagead2.googlesyndication.com
 ae.iads.unity3d.com
-aws.api.snapchat.com
 api16-access-wf-sg.pangle.io
 ad.doubleclick.net
 app-analytics-services.com
