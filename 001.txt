@@ -268,7 +268,6 @@ res.adx.opera.com
 static.ads-twitter.com
 static.ads.brave.com
 z.moatads.com
-#OPTIONAL – Feature Flags / Experiments
 clientstream.launchdarkly.com
 mobile.launchdarkly.com
 growthbook.mywot.com
@@ -285,7 +284,6 @@ playatoms-pa.googleapis.com
 waa-pa.clients6.google.com
 feedback-pa.googleapis.com
 lens-pa.googleapis.com
-#OPTIONAL – Low-noise OS / Account helpers
 iid.googleapis.com
 fcmtoken.googleapis.com
 device-provisioning.googleapis.com
@@ -296,7 +294,6 @@ signaler-pa.clients6.google.com
 metrics.icloud.com
 stats.gc.apple.com
 stats.gc.fe2.apple-dns.net
-#OPTIONAL – Crash / Vendor Diagnostics
 o360270.ingest.sentry.io
 o33249.ingest.us.sentry.io
 sessions.bugsnag.com
@@ -304,13 +301,11 @@ bf16123sqa.bf.dynatrace.com
 ios.crashsight.wetest.net
 in.appcenter.ms
 eastus-8.in.applicationinsights.azure.com
-#OPTIONAL – Microsoft Telemetry
 msedge.api.cdp.microsoft.com
 dcg.microsoft.com
 ax-0001.ax-msedge.net
 www.bing.com
 msn.com
-#optional_telemetry
 AppsFlyer (ALL concrete FQDNs observed)
 app.appsflyer.com
 cdn.appsflyer.com
@@ -370,31 +365,26 @@ consent.adjust.com
 consent.adjust.io
 view.adjust.com
 s2s.adjust.com
-#Google Analytics / Firebase
 analytics.google.com
 www.google-analytics.com
 ssl.google-analytics.com
 region1.google-analytics.com
 app-measurement.com
-#TikTok analytics (NOT content)
 analytics.tiktok.com
 analytics.us.tiktok.com
 analytics-sg.tiktok.com
 analytics16-normal-alisg.tiktok.com
 tiktok.adsmeasurement.com
-#Sentry
 sentry.io
 o478470.ingest.sentry.io
 o64374.ingest.sentry.io
 o74781.ingest.sentry.io
-#Datadog / New Relic / Hotjar
 browser-intake-datadoghq.com
 browser-intake-datadoghq.eu
 www.datadoghq-browser-agent.com
 mobile-collector.newrelic.com
 js-agent.newrelic.com
 pacman-metrics-live.live.eks.hotjar.com
-#Mozilla / Microsoft / vendor telemetry
 incoming.telemetry.mozilla.org
 officehub.nel.measure.office.net
 exo.nel.measure.office.net
