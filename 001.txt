@@ -17,6 +17,7 @@ ads-api.tiktok.com
 ads-interfaces.sc-cdn.net
 ads-sdk-gateway.prd.mz.internal.unity3d.com
 ads-sg.tiktok.com
+ads-twitter.com
 ads.linkedin.com
 ads.mozilla.org
 ads.oppomobile.com
@@ -33,6 +34,7 @@ adsfs.oppomobile.com
 adsrvr.org
 adtago.s3.amazonaws.com
 adtech.yahooinc.com
+advertising.twitter.com
 advice-ads.s3.amazonaws.com
 aefd.nelreports.net
 amazon-adsystem.com
@@ -331,6 +333,7 @@ samsungads.com
 sb.monetate.net
 sbzstag.cirkleinc.com
 sc-telemetry.snapchat.com
+scribe.twitter.com
 script.crazyegg.com
 script.tapfiliate.com
 sdk-cdn.mazeedplus.com
