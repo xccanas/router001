@@ -333,7 +333,6 @@ samsungads.com
 sb.monetate.net
 sbzstag.cirkleinc.com
 sc-telemetry.snapchat.com
-scribe.twitter.com
 script.crazyegg.com
 script.tapfiliate.com
 sdk-cdn.mazeedplus.com
