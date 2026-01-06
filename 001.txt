@@ -31,7 +31,9 @@ adsensecustomsearchads.com
 adservice.google.com
 adsfs.oppomobile.com
 adsrvr.org
+adtago.s3.amazonaws.com
 adtech.yahooinc.com
+advice-ads.s3.amazonaws.com
 aefd.nelreports.net
 amazon-adsystem.com
 amdlvr.net
@@ -43,12 +45,14 @@ analytics-sg.tiktok.com
 analytics.google.com
 analytics.pointdrive.linkedin.com
 analytics.query.yahoo.com
+analytics.s3.amazonaws.com
 analytics.snapchat.com
 analytics.tiktok.com
 analytics.tiktok.com.ttdns2.com
 analytics.us.tiktok.com
 analytics.yahoo.com
 analytics16-normal-alisg.tiktok.com
+analyticsengine.s3.amazonaws.com
 anfe8trk.com
 aniview.com
 aorta.clickagy.com
