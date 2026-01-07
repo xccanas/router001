@@ -19,6 +19,7 @@ adcolony.com
 adexchange.connatix.com
 adfox.yandex.ru
 adfstat.yandex.ru
+adimpact.com
 admob.googleapis.com
 adnxs.com
 adrevenue.appsflyer.com
@@ -81,7 +82,6 @@ anzu.io
 api-adservices.apple.com
 api.appsflyer.com
 api.branch.io
-api.rudderstack.com
 api.segment.io
 api.useinsider.com
 api2.appsflyer.com
@@ -111,6 +111,7 @@ bidease.com
 bidmachine.io
 bidr.io
 bidswitch.net
+blis.com
 blismedia.com
 books-analytics-events.apple.com
 braveglobal.tv
@@ -127,7 +128,6 @@ capi.connatix.com
 casalemedia.com
 cdn.appsflyer.com
 cdn.branch.io
-cdn.confiant-integrations.net
 cdn.dv.tech
 cdn.segment.io
 cdn.tabmo.io
@@ -144,7 +144,6 @@ clouderrorreporting.googleapis.com
 colossusssp.com
 config-inmobi-comtm.trafficmanager.net
 config.uca.cloud.unity3d.com
-content.offerwall.unity3d.com
 contentsquare.net
 contextweb.com
 conversions.appsflyer.com
@@ -194,6 +193,7 @@ events.launchdarkly.com
 events.mz.unity3d.com
 events.reddit.com
 events.redditmedia.com
+events.tabmo.io
 exo.nel.measure.office.net
 experience.appsflyer.com
 eyeota.net
@@ -446,6 +446,7 @@ tracking.rus.miui.com
 tradplusad.com
 tremorhub.com
 trk.pinterest.com
+trkapi.impact.com
 turingfraud.net
 tynt.com
 udcm.yahoo.com
@@ -466,6 +467,7 @@ vff6p.espclicks.appsflyer.com
 vidazoo.services
 view.adjust.com
 vop.sundaysky.com
+vtrk.dv.tech
 vulcan1.branch.io
 vulcan2.branch.io
 vulcan3.branch.io
