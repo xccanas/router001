@@ -81,12 +81,15 @@ anythinktech.com
 anzu.io
 api-adservices.apple.com
 api.appsflyer.com
-api.branch.io
 api.segment.io
 api.useinsider.com
 api2.appsflyer.com
 api2.branch.io
-api3.branch.io
+api.branch.io
+vulcan1.branch.io
+vulcan2.branch.io
+vulcan3.branch.io
+vulcan5.branch.io
 app-analytics-services.com
 app-analytics-v2.snapchat.com
 app-analytics.snapchat.com
@@ -127,7 +130,6 @@ c2s.sdkless.appsflyer.com
 capi.connatix.com
 casalemedia.com
 cdn.appsflyer.com
-cdn.branch.io
 cdn.dv.tech
 cdn.segment.io
 cdn.tabmo.io
@@ -324,7 +326,6 @@ nitropay.com
 notes-analytics-events.apple.com
 officehub.nel.measure.office.net
 ogads-pa.googleapis.com
-onelink.appsflyer.com
 onelinksmartscript.appsflyer.com
 onetag-sys.com
 onezapp.com
@@ -468,10 +469,6 @@ vidazoo.services
 view.adjust.com
 vop.sundaysky.com
 vtrk.dv.tech
-vulcan1.branch.io
-vulcan2.branch.io
-vulcan3.branch.io
-vulcan5.branch.io
 vungle.com
 w.isx.unity3d.com
 wa.appsflyer.com
