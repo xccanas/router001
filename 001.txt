@@ -59,7 +59,6 @@ amplitude.com
 an.facebook.com
 analytics-alv.google.com
 analytics-api.samsunghealthcn.com
-analytics-ipv6.tiktokw.us
 analytics-sg.tiktok.com
 analytics.google.com
 analytics.pointdrive.linkedin.com
@@ -67,10 +66,7 @@ analytics.query.yahoo.com
 analytics.s3.amazonaws.com
 analytics.snapchat.com
 analytics.tiktok.com
-analytics.tiktok.com.ttdns2.com
-analytics.us.tiktok.com
 analytics.yahoo.com
-analytics16-normal-alisg.tiktok.com
 analyticsengine.s3.amazonaws.com
 anfe8trk.com
 aniview.com
@@ -264,7 +260,6 @@ mintegral.net
 minutemedia-prebid.com
 mistat.india.xiaomi.com
 mistat.rus.xiaomi.com
-mistat.xiaomi.com
 moatads.com
 mobile.launchdarkly.com
 mobilefuse.com
