@@ -118,7 +118,6 @@ blis.com
 blismedia.com
 books-analytics-events.apple.com
 braveglobal.tv
-braze-images.com
 browser-intake-datadoghq.com
 browser-intake-datadoghq.eu
 browser.sentry-cdn.com
@@ -145,7 +144,6 @@ clk.trkmobi.net
 clouderrorreporting.googleapis.com
 colossusssp.com
 config-inmobi-comtm.trafficmanager.net
-config.uca.cloud.unity3d.com
 contentsquare.net
 contextweb.com
 conversions.appsflyer.com
