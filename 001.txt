@@ -422,7 +422,6 @@ startappservice.com
 static.ads.brave.com
 static.doubleclick.net
 stats.appsflyer.com
-stats.g.doubleclick.net
 stats.wp.com
 sync-tm.everesttech.net
 sync.springserve.com
