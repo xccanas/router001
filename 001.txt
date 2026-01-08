@@ -33,6 +33,7 @@ ads.mozilla.org
 ads.oppomobile.com
 ads.pinterest.com
 ads.prod.webservices.mozgcp.net
+ads.roblox.com
 ads.snapchat.com
 ads.tiktok.com
 ads.yahoo.com
