@@ -12,6 +12,7 @@ abtasty.com
 accounts.doubleclick.net
 acdn.browsee.io
 acuityplatform.com
+api.miwifi.com
 ad-emea.doubleclick.net
 ad.intl.xiaomi.com
 ad.xiaomi.com
