@@ -12,7 +12,6 @@ abtasty.com
 accounts.doubleclick.net
 acdn.browsee.io
 acuityplatform.com
-api.miwifi.com
 ad-emea.doubleclick.net
 ad.intl.xiaomi.com
 ad.xiaomi.com
@@ -155,6 +154,7 @@ criteo.com
 criteo.net
 crwdcntrl.net
 daq.zefrdata.com
+data.mistat.intl.xiaomi.com
 data.pendo.io
 datadoghq-browser-agent.com
 deepintent.com
@@ -305,6 +305,7 @@ mintegral.net
 minutemedia-prebid.com
 mistat.india.xiaomi.com
 mistat.rus.xiaomi.com
+miwifi.com
 moatads.com
 mobads-logs.baidu.com
 mobads.baidu.com
@@ -446,7 +447,7 @@ track.appsflyer.com
 track.tenjin.com
 tracker.metricool.com
 tracker.unbxdapi.com
-tracking.rus.miui.com
+tracking.intl.miui.com
 tradplusad.com
 tremorhub.com
 trk.pinterest.com
