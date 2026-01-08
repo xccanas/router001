@@ -332,7 +332,6 @@ onetag-sys.com
 onezapp.com
 openwebmp.com
 openx.net
-optimizationguide-pa.googleapis.com
 ortb.net
 outbrain.com
 p.rfihub.com
