@@ -81,15 +81,11 @@ anythinktech.com
 anzu.io
 api-adservices.apple.com
 api.appsflyer.com
+api.branch.io
 api.segment.io
 api.useinsider.com
 api2.appsflyer.com
 api2.branch.io
-api.branch.io
-vulcan1.branch.io
-vulcan2.branch.io
-vulcan3.branch.io
-vulcan5.branch.io
 app-analytics-services.com
 app-analytics-v2.snapchat.com
 app-analytics.snapchat.com
@@ -233,9 +229,13 @@ grs.hicloud.com
 hbevents-public.mz.unity3d.com
 hexagon-analytics.com
 hisavana.com
+hm.baidu.com
+hmma.baidu.com
 hotjar.com
 hotjar.io
 hq1.appsflyer.com
+httpdns.baidu.com
+httpsdns.baidu.com
 hyprmx.com
 i.singular.net
 iads.unity3d.com
@@ -304,6 +304,8 @@ minutemedia-prebid.com
 mistat.india.xiaomi.com
 mistat.rus.xiaomi.com
 moatads.com
+mobads-logs.baidu.com
+mobads.baidu.com
 mobilefuse.com
 moengage.com
 moloco.com
@@ -329,6 +331,7 @@ onetag-sys.com
 onezapp.com
 openwebmp.com
 openx.net
+optimizationguide-pa.googleapis.com
 ortb.net
 outbrain.com
 p.rfihub.com
@@ -340,6 +343,7 @@ pippio.com
 pixel.facebook.com
 playdigo.com
 popt.in
+pos.baidu.com
 posthog.com
 presage.io
 primis.tech
@@ -417,6 +421,7 @@ startappservice.com
 static.ads.brave.com
 static.doubleclick.net
 stats.appsflyer.com
+stats.g.doubleclick.net
 stats.wp.com
 sync-tm.everesttech.net
 sync.springserve.com
@@ -467,6 +472,10 @@ vidazoo.services
 view.adjust.com
 vop.sundaysky.com
 vtrk.dv.tech
+vulcan1.branch.io
+vulcan2.branch.io
+vulcan3.branch.io
+vulcan5.branch.io
 vungle.com
 w.isx.unity3d.com
 wa.appsflyer.com
