@@ -18,7 +18,6 @@ ad.xiaomi.com
 adcolony.com
 adexchange.connatix.com
 adfox.yandex.ru
-miwifi.com
 adfstat.yandex.ru
 adimpact.com
 admob.googleapis.com
@@ -88,6 +87,7 @@ api.segment.io
 api.useinsider.com
 api2.appsflyer.com
 api2.branch.io
+app-ads-services.com
 app-analytics-services.com
 app-analytics-v2.snapchat.com
 app-analytics.snapchat.com
@@ -306,6 +306,7 @@ mintegral.net
 minutemedia-prebid.com
 mistat.india.xiaomi.com
 mistat.rus.xiaomi.com
+miwifi.com
 moatads.com
 mobads-logs.baidu.com
 mobads.baidu.com
@@ -421,9 +422,11 @@ socialnettraffic.com
 sonobi.com
 ssp-prod-traffic-mgr-es-beacon-eastus.trafficmanager.net
 ssp.disqus.com
+st-eu.dynamicyield.com
 startappservice.com
 static.ads.brave.com
 static.doubleclick.net
+static.hotjar.com
 stats.appsflyer.com
 stats.wp.com
 sync-tm.everesttech.net
