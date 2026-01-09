@@ -305,7 +305,6 @@ mintegral.net
 minutemedia-prebid.com
 mistat.india.xiaomi.com
 mistat.rus.xiaomi.com
-miwifi.com
 moatads.com
 mobads-logs.baidu.com
 mobads.baidu.com
