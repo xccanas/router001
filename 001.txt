@@ -18,6 +18,7 @@ ad.xiaomi.com
 adcolony.com
 adexchange.connatix.com
 adfox.yandex.ru
+miwifi.com
 adfstat.yandex.ru
 adimpact.com
 admob.googleapis.com
