@@ -391,7 +391,7 @@ script.tapfiliate.com
 sdk-api-v1.singular.net
 sdk.e.qq.com
 sdk.rum.aliyuncs.com
-sdksg.ssp.taxssp.com
+taxssp.com
 secureframe.doubleclick.net
 seedtag.com
 semasio.net
