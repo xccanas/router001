@@ -116,7 +116,6 @@ blis.com
 blismedia.com
 books-analytics-events.apple.com
 braveglobal.tv
-broker.miwifi.com
 browser-intake-datadoghq.com
 browser-intake-datadoghq.eu
 browser.sentry-cdn.com
@@ -309,7 +308,6 @@ minutemedia-prebid.com
 mistat.india.xiaomi.com
 mistat.intl.xiaomi.com
 mistat.rus.xiaomi.com
-miwifi.com
 moatads.com
 mobads-logs.baidu.com
 mobads.baidu.com
@@ -429,7 +427,6 @@ st-eu.dynamicyield.com
 startappservice.com
 static.ads.brave.com
 static.doubleclick.net
-static.hotjar.com
 stats.appsflyer.com
 stats.wp.com
 stun.miwifi.com
