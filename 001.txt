@@ -9,10 +9,8 @@ aa.agkn.com
 aafaqrec.com
 aarki.net
 abtasty.com
-accounts.doubleclick.net
 acdn.browsee.io
 acuityplatform.com
-ad-emea.doubleclick.net
 ad.intl.xiaomi.com
 ad.xiaomi.com
 adcolony.com
@@ -56,6 +54,7 @@ amazon-adsystem.com
 ambientdsp.com
 amdlvr.net
 amplitude.com
+ampproject.org
 an.facebook.com
 analytics-alv.google.com
 analytics-api.samsunghealthcn.com
@@ -123,6 +122,7 @@ bshr.ezodn.com
 bttrack.com
 bugsnag.com
 business-api.tiktok.com
+BusinessChat.io
 c2s.sdkless.appsflyer.com
 capi.connatix.com
 casalemedia.com
@@ -147,6 +147,7 @@ contextweb.com
 conversions.appsflyer.com
 conviva.com
 cootlogix.com
+crashlytics.com
 crashsight.wetest.net
 crazyegg.com
 creativecdn.com
@@ -164,9 +165,9 @@ device9.com
 displayio.cloud
 dls2s.appsflyer.com
 dlsdk.appsflyer.com
-dmp.doubleclick.net
 dmxleo.com
 dotomi.com
+doubleclick.net
 doubleverify.com
 dsp.apicgate.com
 dsp.nrich.ai
@@ -188,6 +189,7 @@ eu5.remerge.events
 eum-blue-saas.instana.io
 eum-orange-saas.instana.io
 events.appsflyer.com
+events.data.microsoft.com
 events.launchdarkly.com
 events.mz.unity3d.com
 events.reddit.com
@@ -200,17 +202,14 @@ ezojs.com
 fast.a.klaviyo.com
 fastclick.net
 federatedcompute-pa.googleapis.com
-ff.doubleclick.net
 firebaselogging-pa.googleapis.com
 firebaselogging.googleapis.com
 flashtalking.com
-fls.doubleclick.net
 fout.jp
 fpjs.io
 fra-01.braze.eu
 freshmarketer.com
 fyber.com
-g.doubleclick.net
 g.ezoic.net
 gateway.prod.anzu-us.com
 gcd-s2s.appsflyer.com
@@ -221,6 +220,7 @@ geo.ads.brave.com
 geo.yahoo.com
 geoedge.be
 getsentry.com
+go-mpulse.net
 google-analytics.com
 googleadservices.com
 googleanalytics.com
@@ -229,6 +229,7 @@ googletagmanager.com
 googletagservices.com
 growth-pa.googleapis.com
 grs.hicloud.com
+gtm.byteoversea.net
 hbevents-public.mz.unity3d.com
 hexagon-analytics.com
 hisavana.com
@@ -288,14 +289,12 @@ logservice1.hicloud.com
 loopme.me
 luckyorange.com
 luckyorange.net
-m.doubleclick.net
 mathtag.com
 maxesads.com
 media.net
 mediarithmics.com
 mediation.unity3d.com
 mediavine.com
-mediavisor.doubleclick.net
 metrics.data.hicloud.com
 metrics.icloud.com
 metrics.mzstatic.com
@@ -329,7 +328,9 @@ nextmillmedia.com
 ninthdecimal.com
 nitropay.com
 notes-analytics-events.apple.com
+nr-data.net
 officehub.nel.measure.office.net
+ogads-pa.clients6.google.com
 ogads-pa.googleapis.com
 onelinksmartscript.appsflyer.com
 onetag-sys.com
@@ -391,8 +392,6 @@ script.tapfiliate.com
 sdk-api-v1.singular.net
 sdk.e.qq.com
 sdk.rum.aliyuncs.com
-taxssp.com
-secureframe.doubleclick.net
 seedtag.com
 semasio.net
 sentry.fivem.net
@@ -426,7 +425,6 @@ ssp.disqus.com
 st-eu.dynamicyield.com
 startappservice.com
 static.ads.brave.com
-static.doubleclick.net
 stats.appsflyer.com
 stats.wp.com
 stun.miwifi.com
@@ -440,7 +438,7 @@ tamaraproyljjb.dataplane.rudderstack.com
 tapad.com
 tapjoy.com
 tapjoyads.com
-td.doubleclick.net
+taxssp.com
 telemetry-in.battle.net
 telemetry-incoming.r53-2.services.mozilla.com
 telemetry.api.swiftkey.com
