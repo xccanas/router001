@@ -116,6 +116,7 @@ blis.com
 blismedia.com
 books-analytics-events.apple.com
 braveglobal.tv
+broker.miwifi.com
 browser-intake-datadoghq.com
 browser-intake-datadoghq.eu
 browser.sentry-cdn.com
@@ -279,6 +280,7 @@ lmzug.espclicks.appsflyer.com
 log.byteoversea.com
 log.fc.yahoo.com
 log.joydq.com
+log.miwifi.com
 log.pinterest.com
 logbak.hicloud.com
 logic.anzuinfra.com
@@ -305,6 +307,7 @@ mintegral.com
 mintegral.net
 minutemedia-prebid.com
 mistat.india.xiaomi.com
+mistat.intl.xiaomi.com
 mistat.rus.xiaomi.com
 miwifi.com
 moatads.com
@@ -429,6 +432,7 @@ static.doubleclick.net
 static.hotjar.com
 stats.appsflyer.com
 stats.wp.com
+stun.miwifi.com
 sync-tm.everesttech.net
 sync.springserve.com
 t.appsflyer.com
