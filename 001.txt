@@ -10,6 +10,7 @@ aafaqrec.com
 aarki.net
 abtasty.com
 acdn.browsee.io
+BusinessChat.io
 acuityplatform.com
 ad-instantpage-sg.tiktokv.com
 ad-score.com
@@ -276,7 +277,6 @@ iads.unity3d.com
 iadsdk.apple.com
 id5-sync.com
 iesnare.com
-igodigital.com
 imp.control.kochava.com
 impactcdn.com
 impression.appsflyer.com
