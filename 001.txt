@@ -71,7 +71,6 @@ analytics-ipv6.tiktokw.us
 analytics-sg.tiktok.com
 analytics.adjust.io
 analytics.adjust.world
-analytics.google.com
 analytics.govyy.com
 analytics.ladoun.com
 analytics.pointdrive.linkedin.com
@@ -79,7 +78,6 @@ analytics.qatfahaljouf.com
 analytics.query.yahoo.com
 analytics.s3.amazonaws.com
 analytics.snapchat.com
-analytics.tiktok.com
 analytics.twitter.com
 analytics.wthere.com
 analytics.yahoo.com
@@ -95,25 +93,16 @@ anythinktech.com
 anzu.io
 api-adservices.apple.com
 api.appsflyer.com
-api.branch.io
 api.consentjs.datagrail.io
 api.mixpanel.com
-api.segment.io
 api.useinsider.com
 api2.appsflyer.com
-api2.branch.io
 apiproxy-logging-s1-cee16861ef0ad576.elb.us-east-1.amazonaws.com
 app-ads-services.com
-app-analytics-services.com
-app-analytics-v2.snapchat.com
 app-analytics.snapchat.com
-app-measurement.com
-applovin.com
-applvn.com
 appmetrica.yandex.net
 appmetrica.yandex.ru
 appnxt.net
-appsflyersdk.com
 appsgrowthpromo-pa.clients6.google.com
 appsgrowthpromo-pa.googleapis.com
 aps-webhandler.appsflyer.com
@@ -137,7 +126,6 @@ bidswitch.net
 blis.com
 blismedia.com
 books-analytics-events.apple.com
-branch.io
 braveglobal.tv
 braze.com
 braze.eu
@@ -208,7 +196,6 @@ dls2s.appsflyer.com
 dlsdk.appsflyer.com
 dmxleo.com
 dotomi.com
-doubleclick.net
 doubleverify.com
 dsp.apicgate.com
 dsp.nrich.ai
@@ -231,7 +218,6 @@ eu5.remerge.events
 eum-blue-saas.instana.io
 eum-orange-saas.instana.io
 events.appsflyer.com
-events.data.microsoft.com
 events.launchdarkly.com
 events.mz.unity3d.com
 events.reddit.com
@@ -246,7 +232,6 @@ ezojs.com
 fast.a.klaviyo.com
 fastclick.net
 federatedcompute-pa.googleapis.com
-firebaselogging-pa.googleapis.com
 firebaselogging.googleapis.com
 flashtalking.com
 fout.jp
@@ -270,11 +255,7 @@ getsentry.com
 global-staticplat.cdn.bcebos.com
 globale-analytics-sdk.global-e.com
 go-mpulse.net
-google-analytics.com
-googleadservices.com
 googleanalytics.com
-googlesyndication.com
-googletagmanager.com
 googletagservices.com
 growth-pa.googleapis.com
 grs.hicloud.com
@@ -400,7 +381,6 @@ ninthdecimal.com
 nitropay.com
 northbeam.io
 notes-analytics-events.apple.com
-nr-data.net
 officehub.nel.measure.office.net
 ogads-pa.clients6.google.com
 ogads-pa.googleapis.com
@@ -415,7 +395,6 @@ p.rfihub.com
 p.trcllr.com
 p16-ad-sg.ibyteimg.com
 p21-ad-sg.ibyteimg.com
-pangle.io
 partnerads.ysm.yahoo.com
 perfsight.wetest.net
 perseus-productanalytics.deliveryhero.net
@@ -430,7 +409,6 @@ pos.baidu.com
 posthog.com
 presage.io
 primis.tech
-protected-api.branch.io
 protrafficinspector.com
 ptengine.com
 ptengine.jp
@@ -545,7 +523,6 @@ telemetry.mozilla.org
 thtk.temu.com
 tnc-boot.tiktokv.com
 tnc-sg.capcutapi.com
-tr.snapchat.com
 tr1.datahash.com
 tr6.snapchat.com
 tracing.roblox.com
@@ -584,10 +561,6 @@ vff6p.espclicks.appsflyer.com
 vidazoo.services
 vop.sundaysky.com
 vtrk.dv.tech
-vulcan1.branch.io
-vulcan2.branch.io
-vulcan3.branch.io
-vulcan5.branch.io
 vungle.com
 w.isx.unity3d.com
 wa.appsflyer.com
