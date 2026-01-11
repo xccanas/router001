@@ -88,7 +88,6 @@ analytics16-normal-alisg.tiktok.com
 analyticsengine.s3.amazonaws.com
 analyticsmobile-pa.googleapis.com
 analyticspixel.microsoft.com
-androidtvchannels-pa.googleapis.com
 androidtvwatsonfe-pa.googleapis.com
 anfe8trk.com
 aniview.com
@@ -287,7 +286,6 @@ httpdns.baidu.com
 httpsdns.baidu.com
 hyprmx.com
 i.singular.net
-iads.unity3d.com
 iadsdk.apple.com
 ic3.events.data.microsoft.com
 id5-sync.com
@@ -424,7 +422,6 @@ partnerads.ysm.yahoo.com
 perfsight.wetest.net
 perseus-productanalytics.deliveryhero.net
 pf.events.data.microsoft.com
-pftk.temu.com
 pipe.aria.microsoft.com
 pippio.com
 pixel-config.reddit.com
@@ -537,14 +534,12 @@ t-ring-fallback.msedge.net
 t-ring-fdv2.msedge.net
 t-ring-s.msedge.net
 t.appsflyer.com
-t.journify.io
 taboola.com
 tagsrvcs.com
 tamaraproyljjb.dataplane.rudderstack.com
 tapad.com
 tapjoy.com
 tapjoyads.com
-taxssp.com
 tb.events.data.microsoft.com
 teads.tv
 teams.events.data.microsoft.com
@@ -557,7 +552,6 @@ telemetry.getadblock.com
 telemetry.microsoft.com
 telemetry.mozilla.org
 telemetry.visualstudio.microsoft.com
-thtk.temu.com
 tnc-boot.tiktokv.com
 tnc-sg.capcutapi.com
 tr1.datahash.com
