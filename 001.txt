@@ -138,7 +138,6 @@ bttrack.com
 bugly.qq.com
 bugsnag.com
 business-api.tiktok.com
-BusinessChat.io
 c2s.sdkless.appsflyer.com
 capi.connatix.com
 casalemedia.com
