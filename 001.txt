@@ -10,7 +10,6 @@ aafaqrec.com
 aarki.net
 abtasty.com
 acdn.browsee.io
-BusinessChat.io
 acuityplatform.com
 ad-instantpage-sg.tiktokv.com
 ad-score.com
@@ -139,6 +138,7 @@ bttrack.com
 bugly.qq.com
 bugsnag.com
 business-api.tiktok.com
+BusinessChat.io
 c2s.sdkless.appsflyer.com
 capi.connatix.com
 casalemedia.com
@@ -277,6 +277,7 @@ iads.unity3d.com
 iadsdk.apple.com
 id5-sync.com
 iesnare.com
+igodigital.com
 imp.control.kochava.com
 impactcdn.com
 impression.appsflyer.com
