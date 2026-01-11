@@ -399,7 +399,6 @@ partnerads.ysm.yahoo.com
 perfsight.wetest.net
 perseus-productanalytics.deliveryhero.net
 pftk.temu.com
-pipe.aria.microsoft.com
 pippio.com
 pixel-config.reddit.com
 pixel.facebook.com
@@ -571,7 +570,7 @@ web-sdk-cdn.singular.net
 websdk.appsflyer.com
 widgets.in.webengage.com
 win10-trt.msedge.net
-wslog-global-dual.coolzcloud.com
+wslog-global-dual.coolzcloud.comfw
 wtbevents.pricespider.com
 wwwmarketing.scdn.co
 wzrkt.com
@@ -584,3 +583,4 @@ zemanta.com
 zeotap.com
 zmaticoo.com
 zombie.duolingo.com
+events.data.microsoft.com
