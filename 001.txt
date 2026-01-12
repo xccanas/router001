@@ -603,7 +603,6 @@ waa-pa.clients6.google.com
 watson.events.data.microsoft.com
 watson.microsoft.com
 watsonc.events.data.microsoft.com
-wdp.brave.com
 weather-analytics-events.apple.com
 web-sdk-cdn.singular.net
 websdk.appsflyer.com
