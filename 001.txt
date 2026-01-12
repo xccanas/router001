@@ -98,6 +98,7 @@ apac.events.data.microsoft.com
 api-adservices.apple.com
 api.appsflyer.com
 api.consentjs.datagrail.io
+api.miwifi.com
 api.mixpanel.com
 api.useinsider.com
 api2.appsflyer.com
@@ -224,7 +225,6 @@ et-w-inmobi-comtm.trafficmanager.net
 etracker.noon.com
 eu-ic3.events.data.microsoft.com
 eu-office.events.data.microsoft.com
-eu-teams.events.data.microsoft.com
 eu-watsonc.events.data.microsoft.com
 eu5.remerge.events
 eum-blue-saas.instana.io
@@ -421,7 +421,6 @@ partnerads.ysm.yahoo.com
 perfsight.wetest.net
 perseus-productanalytics.deliveryhero.net
 pf.events.data.microsoft.com
-pipe.aria.microsoft.com
 pippio.com
 pixel-config.reddit.com
 pixel.facebook.com
