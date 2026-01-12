@@ -614,6 +614,8 @@ wzrkt.com
 xgapromomanager-pa.googleapis.com
 xy.fbcdn.net
 yandex.ru
+yandex.com
+yandex.net
 yandexadexchange.net
 yellowblue.io
 zemanta.com
