@@ -590,7 +590,6 @@ zemanta.com
 zeotap.com
 zmaticoo.com
 zombie.duolingo.com
-api.miwifi.com
 microsoftadvertising.com
 adhs.events.data.microsoft.com
 apac.events.data.microsoft.com
