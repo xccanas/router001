@@ -19,8 +19,6 @@ ad.xiaomi.com
 adashx4ae.ut.taobao.com
 adcolony.com
 adexchange.connatix.com
-adfox.yandex.ru
-adfstat.yandex.ru
 adimpact.com
 adingo.jp
 adjust.com
@@ -102,8 +100,6 @@ api2.appsflyer.com
 apiproxy-logging-s1-cee16861ef0ad576.elb.us-east-1.amazonaws.com
 app-ads-services.com
 app-analytics.snapchat.com
-appmetrica.yandex.net
-appmetrica.yandex.ru
 appnxt.net
 appsgrowthpromo-pa.clients6.google.com
 appsgrowthpromo-pa.googleapis.com
@@ -337,8 +333,6 @@ luckyorange.com
 luckyorange.net
 mathtag.com
 maxesads.com
-mc.yandex.com
-mc.yandex.ru
 media.net
 mediarithmics.com
 mediation.unity3d.com
@@ -348,7 +342,6 @@ metrics.data.hicloud.com
 metrics.icloud.com
 metrics.mzstatic.com
 metrics2.data.hicloud.com
-metrika.yandex.ru
 mgid.com
 mintegral.com
 mintegral.net
