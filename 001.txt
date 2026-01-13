@@ -98,7 +98,6 @@ apac.events.data.microsoft.com
 api-adservices.apple.com
 api.appsflyer.com
 api.consentjs.datagrail.io
-api.miwifi.com
 api.mixpanel.com
 api.useinsider.com
 api2.appsflyer.com
