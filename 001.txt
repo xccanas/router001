@@ -539,7 +539,6 @@ tapjoy.com
 tapjoyads.com
 tb.events.data.microsoft.com
 teads.tv
-teams.events.data.microsoft.com
 telecommandsvc.microsoft.com
 telem-edge.smartscreen.microsoft.com
 telemetry-in.battle.net
