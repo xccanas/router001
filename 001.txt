@@ -78,7 +78,6 @@ analytics.qatfahaljouf.com
 analytics.query.yahoo.com
 analytics.s3.amazonaws.com
 analytics.snapchat.com
-analytics.twitter.com
 analytics.wthere.com
 analytics.yahoo.com
 analytics16-normal-alisg.tiktok.com
