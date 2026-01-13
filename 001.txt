@@ -21,7 +21,6 @@ adcolony.com
 adexchange.connatix.com
 adfox.yandex.ru
 adfstat.yandex.ru
-adhs.events.data.microsoft.com
 adimpact.com
 adingo.jp
 adjust.com
@@ -94,7 +93,6 @@ aniview.com
 anymind360.com
 anythinktech.com
 anzu.io
-apac.events.data.microsoft.com
 api-adservices.apple.com
 api.appsflyer.com
 api.consentjs.datagrail.io
@@ -216,15 +214,11 @@ dynamic-report-api.appsflyer.com
 e-volution.ai
 e.qq.com
 eagllwin.com
-emea.events.data.microsoft.com
 enterpriseenrollment.appsflyer.com
 enterpriseregistration.appsflyer.com
 eskimi.com
 et-w-inmobi-comtm.trafficmanager.net
 etracker.noon.com
-eu-ic3.events.data.microsoft.com
-eu-office.events.data.microsoft.com
-eu-watsonc.events.data.microsoft.com
 eu5.remerge.events
 eum-blue-saas.instana.io
 eum-orange-saas.instana.io
@@ -250,7 +244,6 @@ fp.msedge.net
 fpjs.io
 fra-01.braze.eu
 freshmarketer.com
-functional.events.data.microsoft.com
 fuseplatform.net
 fyber.com
 g.ezoic.net
@@ -286,7 +279,6 @@ httpsdns.baidu.com
 hyprmx.com
 i.singular.net
 iadsdk.apple.com
-ic3.events.data.microsoft.com
 id5-sync.com
 ieonline.microsoft.com
 iesnare.com
@@ -314,8 +306,6 @@ js-cdn.dynatrace.com
 k-ring.msedge.net
 kargo.com
 kayzen.io
-kmwatson.events.data.microsoft.com
-kmwatsonc.events.data.microsoft.com
 krushmedia.com
 launches.appsflyer.com
 liftoff-creatives.io
@@ -396,12 +386,8 @@ news-cdn.site
 nextmillmedia.com
 ninthdecimal.com
 nitropay.com
-noam.events.data.microsoft.com
 northbeam.io
 notes-analytics-events.apple.com
-nw-umwatson.events.data.microsoft.com
-office-c.events.data.microsoft.com
-office-g.events.data.microsoft.com
 officehub.nel.measure.office.net
 ogads-pa.clients6.google.com
 ogads-pa.googleapis.com
@@ -419,7 +405,6 @@ p21-ad-sg.ibyteimg.com
 partnerads.ysm.yahoo.com
 perfsight.wetest.net
 perseus-productanalytics.deliveryhero.net
-pf.events.data.microsoft.com
 pippio.com
 pixel-config.reddit.com
 pixel.facebook.com
@@ -484,7 +469,6 @@ sentry.sc-prod.net
 sentry.voicemod.net
 sentry.zadapps.info
 servedbyadbutler.com
-server.events.data.microsoft.com
 serving-sys.com
 sharethrough.com
 shgcdn3.com
@@ -537,7 +521,6 @@ tamaraproyljjb.dataplane.rudderstack.com
 tapad.com
 tapjoy.com
 tapjoyads.com
-tb.events.data.microsoft.com
 teads.tv
 telecommandsvc.microsoft.com
 telem-edge.smartscreen.microsoft.com
@@ -570,12 +553,9 @@ turingfraud.net
 tynt.com
 udcm.yahoo.com
 uidapi.com
-umwatson.events.data.microsoft.com
-umwatsonc.events.data.microsoft.com
 undertone.com
 unityads.unity3d.com
 unrulymedia.com
-us-teams.events.data.microsoft.com
 us8.remerge.events
 user-sync.fwmrm.net
 usermatch.krxd.net
@@ -597,9 +577,6 @@ vungle.com
 w.isx.unity3d.com
 wa.appsflyer.com
 waa-pa.clients6.google.com
-watson.events.data.microsoft.com
-watson.microsoft.com
-watsonc.events.data.microsoft.com
 weather-analytics-events.apple.com
 web-sdk-cdn.singular.net
 websdk.appsflyer.com
