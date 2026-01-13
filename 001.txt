@@ -319,7 +319,6 @@ log.byteoversea.com
 log.fc.yahoo.com
 log.getadblock.com
 log.joydq.com
-log.miwifi.com
 log.pinterest.com
 logbak.hicloud.com
 logic.anzuinfra.com
@@ -499,7 +498,6 @@ static.scarabresearch.com
 stats.appsflyer.com
 stats.wp.com
 statsigapi.net
-stun.miwifi.com
 supersonicads.com
 sync-tm.everesttech.net
 sync.springserve.com
