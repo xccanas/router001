@@ -607,4 +607,3 @@ tb.events.data.microsoft.com
 teams.events.data.microsoft.com
 us-teams.events.data.microsoft.com
 api.miwifi.com
-telemetry-in.battle.net
