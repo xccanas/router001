@@ -603,11 +603,7 @@ office-g.events.data.microsoft.com
 pf.events.data.microsoft.com
 server.events.data.microsoft.com
 tb.events.data.microsoft.com
-teams.events.data.microsoft.com
 us-teams.events.data.microsoft.com
-mask.icloud.com
-mask-h2.icloud.com
-mask.apple-dns.net
 gtm.temu.com
 pftk.temu.com
 thtk.temu.com
