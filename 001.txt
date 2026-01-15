@@ -98,7 +98,6 @@ api.useinsider.com
 api2.appsflyer.com
 apiproxy-logging-s1-cee16861ef0ad576.elb.us-east-1.amazonaws.com
 app-ads-services.com
-app-analytics.snapchat.com
 appnxt.net
 appsgrowthpromo-pa.clients6.google.com
 appsgrowthpromo-pa.googleapis.com
@@ -437,7 +436,6 @@ s.pxltgr.com
 s.seedtag.com
 s.xlgmedia.com
 s2s.appsflyer.com
-s2s.mparticle.com
 safetrack-s2s.singular.net
 safetrack.singular.net
 samsung-com.112.2o7.net
@@ -513,7 +511,6 @@ tapjoyads.com
 teads.tv
 telecommandsvc.microsoft.com
 telem-edge.smartscreen.microsoft.com
-telemetry-in.battle.net
 telemetry-incoming.r53-2.services.mozilla.com
 telemetry.api.swiftkey.com
 telemetry.getadblock.com
