@@ -16,7 +16,6 @@ ad-score.com
 ad.intl.xiaomi.com
 ad.mail.ru
 ad.xiaomi.com
-adashx4ae.ut.taobao.com
 adcolony.com
 adexchange.connatix.com
 adimpact.com
@@ -126,8 +125,6 @@ books-analytics-events.apple.com
 braveglobal.tv
 braze.com
 braze.eu
-browser-intake-datadoghq.com
-browser-intake-datadoghq.eu
 browser.sentry-cdn.com
 bshr.ezodn.com
 bstream.kzhi.tech
@@ -152,7 +149,6 @@ chartboost.com
 chunk-errors-monitoring.herokuapp.com
 clarity.microsoft.com
 clarity.ms
-clevertap-prod.com
 clickagy.com
 clickblitzo.com
 client-telemetry.roblox.com
@@ -486,7 +482,6 @@ ssp-prod-traffic-mgr-es-beacon-eastus.trafficmanager.net
 ssp.disqus.com
 st-eu.dynamicyield.com
 stape.io
-star-randsrv.bsg.brave.com
 startappservice.com
 static-tracking.klaviyo.com
 static.ads.brave.com
@@ -587,19 +582,15 @@ microsoftadvertising.com
 adhs.events.data.microsoft.com
 apac.events.data.microsoft.com
 emea.events.data.microsoft.com
-eu-ic3.events.data.microsoft.com
 eu-office.events.data.microsoft.com
-eu-teams.events.data.microsoft.com
 eu-watsonc.events.data.microsoft.com
 functional.events.data.microsoft.com
-ic3.events.data.microsoft.com
 noam.events.data.microsoft.com
 office-c.events.data.microsoft.com
 office-g.events.data.microsoft.com
 pf.events.data.microsoft.com
 server.events.data.microsoft.com
 tb.events.data.microsoft.com
-us-teams.events.data.microsoft.com
 gtm.temu.com
 pftk.temu.com
 thtk.temu.com
