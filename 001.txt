@@ -594,6 +594,3 @@ tb.events.data.microsoft.com
 gtm.temu.com
 pftk.temu.com
 thtk.temu.com
-adeventtracker.spotify.com
-ads.spotify.com
-aet.spotify.com
