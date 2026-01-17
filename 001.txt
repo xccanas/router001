@@ -597,8 +597,3 @@ thtk.temu.com
 adeventtracker.spotify.com
 ads.spotify.com
 aet.spotify.com
-bloodhound.spotify.com
-crashdump.spotify.com
-pixel.spotify.com
-pixel-static.spotify.com
-pixels.spotify.com
