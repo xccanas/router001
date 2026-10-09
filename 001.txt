@@ -625,6 +625,3 @@ office-g.events.data.microsoft.com
 pf.events.data.microsoft.com
 server.events.data.microsoft.com
 tb.events.data.microsoft.com
-gtm.temu.com
-pftk.temu.com
-thtk.temu.com
